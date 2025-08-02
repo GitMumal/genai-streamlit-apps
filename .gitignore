@@ -1,0 +1,14 @@
+# Ignore Python virtual environments
+ai_env/
+__pycache__/
+*.pyc
+
+# Streamlit config
+.streamlit/
+
+# VS Code files
+.vscode/
+
+# Mac/Windows hidden files
+.DS_Store
+Thumbs.db
